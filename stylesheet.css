@@ -1,4 +1,6 @@
 .jumbotron {
   width: 75%;
-  margin-left: 50%;
+}
+.contain {
+  text-align: center;
 }
